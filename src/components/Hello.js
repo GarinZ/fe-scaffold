@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-require('./main.less');
+require('../main.less');
 
 class Hello extends Component {
     render() {
